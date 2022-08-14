@@ -35,4 +35,4 @@ proxy-groups:
       - trojan-contabo1.bypass.id
       - v2ray-contabo.bypass.id
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - MATCH,FASTSSH
